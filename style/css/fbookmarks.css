@@ -1,0 +1,35 @@
+#social-float {
+	position: fixed;
+	margin:10px;
+	display: none;
+	z-index:99;
+}
+#social-float .social-float-inner{
+	width: 55px;	
+	padding: 10px 5px;
+	text-align: center;
+ 
+	background-color: #fff; 	
+}
+.sf-twitter {
+	height: 62px;
+	margin-bottom: 10px;
+} 
+.sf-facebook {
+	height: 60px;
+	margin-bottom: 10px;
+} 
+.sf-plusone {
+	height: 60px;
+}
+#social-float .thethe-backlink{
+	position:absolute;
+	z-index:5;
+	right:0;
+	bottom:0;
+    color: #000;
+	font:normal 8px/1 Verdana, Geneva, sans-serif;
+    display: block;
+    padding:1px 2px;
+    text-decoration: none;
+}

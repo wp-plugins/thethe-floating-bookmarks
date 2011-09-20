@@ -14,9 +14,9 @@ This plugin creates a floating social bookmarks share box that adds facebook, go
 
 This plugin is the easiest and fastest way to incorporate the most important social share buttons like *Facebook (FB)*, *Google +1 (plus one)*, *Twitter* into your pages. And you can choose not only the postion on the screen for your box to appear but also its style through our easy-to-use plugin's admin panel.
 
-This plugin is povided for FREE by [TheTheFly.com - a premium WordPress themes club] (http://TheTheFly.Com "TheTheFly.com - Premium WordPress Themes Club").
+This plugin is povided for FREE by [WordPress Themes Club TheTheFly.Com](http://TheTheFly.Com "TheTheFly.com - Premium WordPress Themes Club").
 
-[Premium Themes](http://thethefly.com/themes/premium-wordpress-themes/ "Premium WordPress Themes") | [Free Themes](http://thethefly.com/themes/free-wordpress-themes/ "Free WordPress Themes") |  [Free Plugins](http://thethefly.com/wp-plugins/ "Free WordPress Plugins") | [Tips &amp; Tricks](http://thethefly.com/wordpress-tips-tricks-hacks-newsletter/ "WordPress Tips, Tricks & Hacks") | [Support Forum](http://thethefly.com/support/forum/ "Support Forum") | [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U2DR7CUBZLPFG "Donate through PayPal")
+[Premium Themes](http://thethefly.com/themes/premium-wordpress-themes/ "Premium WordPress Themes") | [Free Themes](http://thethefly.com/themes/free-wordpress-themes/ "Free WordPress Themes") |  [Free Plugins](http://thethefly.com/wp-plugins/ "Free WordPress Plugins") | [Tips &amp; Tricks](http://thethefly.com/wordpress-tips-tricks-hacks-newsletter/ "WordPress Tips, Tricks & Hacks") | [Support Forum](http://thethefly.com/support/forum/ "Support Forum")
  
 == Installation ==
 
@@ -25,8 +25,15 @@ This plugin is povided for FREE by [TheTheFly.com - a premium WordPress themes c
 3. Activate the 'TheThe Floating Bookmarks' plugin via the 'Plugins' page of your WordPress Admin Dashboard.
 4. Open the plugin configuration page, which is located under TheThe Fly -> Floating Bookmarks and manage your panels.
 
+This plugin is povided for FREE by [WordPress Themes Club TheTheFly.Com](http://TheTheFly.Com "TheTheFly.com - Premium WordPress Themes Club").
+
+[Premium Themes](http://thethefly.com/themes/premium-wordpress-themes/ "Premium WordPress Themes") | [Free Themes](http://thethefly.com/themes/free-wordpress-themes/ "Free WordPress Themes") |  [Free Plugins](http://thethefly.com/wp-plugins/ "Free WordPress Plugins") | [Tips &amp; Tricks](http://thethefly.com/wordpress-tips-tricks-hacks-newsletter/ "WordPress Tips, Tricks & Hacks") | [Support Forum](http://thethefly.com/support/forum/ "Support Forum")
+
 == Frequently Asked Questions ==
 
+This plugin is povided for FREE by [WordPress Themes Club TheTheFly.Com](http://TheTheFly.Com "TheTheFly.com - Premium WordPress Themes Club").
+
+[Premium Themes](http://thethefly.com/themes/premium-wordpress-themes/ "Premium WordPress Themes") | [Free Themes](http://thethefly.com/themes/free-wordpress-themes/ "Free WordPress Themes") |  [Free Plugins](http://thethefly.com/wp-plugins/ "Free WordPress Plugins") | [Tips &amp; Tricks](http://thethefly.com/wordpress-tips-tricks-hacks-newsletter/ "WordPress Tips, Tricks & Hacks") | [Support Forum](http://thethefly.com/support/forum/ "Support Forum")
 
 == Screenshots ==
 
@@ -34,3 +41,7 @@ This plugin is povided for FREE by [TheTheFly.com - a premium WordPress themes c
 2. Floating Bookmarks - Settings Page
 
 == Changelog ==
+
+This plugin is povided for FREE by [WordPress Themes Club TheTheFly.Com](http://TheTheFly.Com "TheTheFly.com - Premium WordPress Themes Club").
+
+[Premium Themes](http://thethefly.com/themes/premium-wordpress-themes/ "Premium WordPress Themes") | [Free Themes](http://thethefly.com/themes/free-wordpress-themes/ "Free WordPress Themes") |  [Free Plugins](http://thethefly.com/wp-plugins/ "Free WordPress Plugins") | [Tips &amp; Tricks](http://thethefly.com/wordpress-tips-tricks-hacks-newsletter/ "WordPress Tips, Tricks & Hacks") | [Support Forum](http://thethefly.com/support/forum/ "Support Forum")

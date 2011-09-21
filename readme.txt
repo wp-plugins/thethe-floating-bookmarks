@@ -10,14 +10,14 @@ This plugin creates a floating social bookmarks share box that adds facebook, go
 
 == Description ==
 
-[Floating Social Bookmarks Share Box](http://thethefly.com/wp-plugins/thethe-marquee/ "TheThe Marquee") ** is a WordPress Plugin that Adds Facebook, Google Plus One and Twitter Links to Your Site**
+[Floating Social Bookmarks Share Box](http://thethefly.com/wp-plugins/thethe-marquee/ "TheThe Marquee") **is a WordPress Plugin that Adds Facebook, Google Plus One and Twitter Links to Your Site**
 
 This plugin is the easiest and fastest way to incorporate the most important social share buttons like *Facebook (FB)*, *Google +1 (plus one)*, *Twitter* into your pages. And you can choose not only the postion on the screen for your box to appear but also its style through our easy-to-use plugin's admin panel.
 
 This plugin is povided for FREE by [WordPress Themes Club TheTheFly.Com](http://TheTheFly.Com "TheTheFly.com - Premium WordPress Themes Club").
 
-[Premium Themes](http://thethefly.com/themes/premium-wordpress-themes/ "Premium WordPress Themes") | [Free Themes](http://thethefly.com/themes/free-wordpress-themes/ "Free WordPress Themes") |  [Free Plugins](http://thethefly.com/wp-plugins/ "Free WordPress Plugins") | [Tips &amp; Tricks](http://thethefly.com/wordpress-tips-tricks-hacks-newsletter/ "WordPress Tips, Tricks & Hacks") | [Support Forum](http://thethefly.com/support/forum/ "Support Forum")
- 
+[Premium Themes](http://thethefly.com/themes/premium-wordpress-themes/ "Premium WordPress Themes") | [Free Themes](http://thethefly.com/themes/free-wordpress-themes/ "Free WordPress Themes") |  [Free Plugins](http://thethefly.com/wp-plugins/ "Free WordPress Plugins") | [Tips &amp; Tricks](http://thethefly.com/wordpress-tips-tricks-hacks-newsletter/ "WordPress Tips, Tricks & Hacks") | [Support Forum](http://thethefly.com/support/forum/ "Support Forum") 
+
 == Installation ==
 
 1. Download the zip file containing the plugin using the 'Download' link on this page.
